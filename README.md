@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/401ijyhvckxlc8kx/branch/main?svg=true)](https://ci.appveyor.com/project/ElinaHaf/postman/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/uhccqto23le6eau2/branch/master?svg=true)](https://ci.appveyor.com/project/ElinaHaf/postmanecho/branch/master)
